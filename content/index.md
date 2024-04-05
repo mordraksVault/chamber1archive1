@@ -9,3 +9,4 @@ Special rules you cannot find anywhere else will be stored here
 
 - [[Resting]]
 - [[Potion Brewing]]
+- [[Weapon Quality System]]
