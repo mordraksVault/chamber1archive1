@@ -1,13 +1,13 @@
-Race: Human
-First name: Pideis
-Last name: Leverick
-Gender: Male
-Age: 75
-Occupation: Scholar / Teacher
-Faction: unknown
-Guild: unknown
-Religion: unknown
-Last known location: [[Cadun]]
+- Race: Human
+- First name: Pideis
+- Last name: Leverick
+- Gender: Male
+- Age: 75
+- Occupation: Scholar / Teacher
+- Faction: unknown
+- Guild: unknown
+- Religion: unknown
+- Last known location: [[Cadun]]
 
 # History / Background
 

@@ -1,5 +1,5 @@
-Type: Insectoid
-Size: Medium
+- Type: Insectoid
+- Size: Medium
 
 ![[giant_wolf_spider.png]]
 

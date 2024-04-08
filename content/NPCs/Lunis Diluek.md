@@ -1,13 +1,13 @@
-Race: Human
-First name: Lunis
-Last name: Diluek
-Gender: Female
-Age: 8
-Occupation: none
-Faction: unknown
-Guild: unknown
-Religion: unknown
-Last known location: [[Cadun]]
+- Race: Human
+- First name: Lunis
+- Last name: Diluek
+- Gender: Female
+- Age: 8
+- Occupation: none
+- Faction: unknown
+- Guild: unknown
+- Religion: unknown
+- Last known location: [[Cadun]]
 
 # History / Background
 

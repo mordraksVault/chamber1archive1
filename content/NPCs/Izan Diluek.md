@@ -1,13 +1,13 @@
-Race: Human
-First name: Izan
-Last name: Diluek
-Gender: Male
-Age: 39
-Occupation: Healer
-Faction: unknown
-Guild: unknown
-Religion: unknown
-Last known location: [[Cadun]]
+- Race: Human
+- First name: Izan
+- Last name: Diluek
+- Gender: Male
+- Age: 39
+- Occupation: Healer
+- Faction: unknown
+- Guild: unknown
+- Religion: unknown
+- Last known location: [[Cadun]]
 
 # History / Background
 
