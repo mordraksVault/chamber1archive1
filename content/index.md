@@ -9,6 +9,10 @@ This is a the entrance to the archives of your DnD campaign. In these ancient ca
 - [[Bestiary/]]
 - [[Herbarium/]]
 
+--- 
+
+- [[Daud's Diary]]
+
 ---
 
 - [[House Rules/]]
